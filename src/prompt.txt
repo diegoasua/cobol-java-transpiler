@@ -1,0 +1,3 @@
+I have this Java file. Let's make it more readable. This file was generated automatically from statically transpiring COBOL code to Java. As a result, it is not Java-idiomatic or very readable and maintainable. It should make use of the Java standard library where appropriate, follow object-oriented principles and use informative naming.
+
+We want to get the sort of program that an experienced Java developer might write. The cleaner and more idiomatic Java, the better. The name of the class should be the same as the name of the file and code should be as compact as possible while following the previous guidelines.
